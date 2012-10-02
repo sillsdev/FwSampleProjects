@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ldml>
+	<identity>
+		<version
+			number="" />
+		<generation
+			date="2011-07-28T11:18:38" />
+		<language
+			type="qaa" />
+		<variant
+			type="x-lel" />
+	</identity>
+	<collations />
+	<special xmlns:palaso="urn://palaso.org/ldmlExtensions/v1">
+		<palaso:abbreviation
+			value="Lel" />
+		<palaso:defaultFontFamily
+			value="Times New Roman" />
+		<palaso:languageName
+			value="Lela-Teli" />
+		<palaso:version
+			value="2" />
+	</special>
+	<special xmlns:fw="urn://fieldworks.sil.org/ldmlExtensions/v1">
+		<fw:graphiteEnabled
+			value="False" />
+		<fw:validChars
+			value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt; &lt;ValidCharacters&gt;   &lt;WordForming&gt;a￼A￼b￼B￼c￼C￼d￼D￼e￼E￼f￼F￼g￼G￼h￼H￼i￼I￼j￼J￼k￼K￼l￼L￼m￼M￼n￼N￼o￼O￼p￼P￼q￼Q￼r￼R￼s￼S￼t￼T￼u￼U￼v￼V￼w￼W￼x￼X￼y￼Y￼z￼Z&lt;/WordForming&gt;   &lt;Numeric /&gt;   &lt;Other&gt;U+0020￼'￼-￼!￼&quot;￼&amp;amp;￼(￼)￼,￼.￼/￼:￼;￼?￼[￼]￼{￼}&lt;/Other&gt; &lt;/ValidCharacters&gt;" />
+		<fw:windowsLCID
+			value="1036" />
+	</special>
+</ldml>
