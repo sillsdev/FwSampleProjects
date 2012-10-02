@@ -1,0 +1,3 @@
+When a project folder contains this file, then that project will not be converted to the shared format (fwdb) when the "Share projects stored on this computer" check box is selected.
+This file needs to be in place prior to selecting that setting in order to avoid sharing the project.
+Sample projects have this file by default. If you delete this file from a sample project folder and then share your projects, you will end up with a non-shared version (fwdata) of the project when you next install FieldWorks.
