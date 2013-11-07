@@ -4,7 +4,7 @@
 		<version
 			number="" />
 		<generation
-			date="2011-07-28T11:18:38" />
+			date="2013-11-07T22:37:11" />
 		<language
 			type="qaa" />
 		<variant
@@ -18,8 +18,36 @@
 			value="Times New Roman" />
 		<palaso:languageName
 			value="Lela-Teli" />
+		<palaso:spellCheckingId
+			value="qaa_x_lel" />
 		<palaso:version
 			value="2" />
+	</special>
+	<special xmlns:palaso2="urn://palaso.org/ldmlExtensions/v2">
+		<palaso2:knownKeyboards>
+			<palaso2:keyboard
+				layout="US"
+				locale="en-US"
+				os="Win32NT" />
+		</palaso2:knownKeyboards>
+		<palaso2:version
+			value="2" />
+	</special>
+	<special xmlns:fw="urn://fieldworks.sil.org/ldmlExtensions/v1">
+		<fw:graphiteEnabled
+			value="False" />
+		<fw:validChars
+			value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt; &lt;ValidCharacters&gt;   &lt;WordForming&gt;a￼A￼b￼B￼c￼C￼d￼D￼e￼E￼f￼F￼g￼G￼h￼H￼i￼I￼j￼J￼k￼K￼l￼L￼m￼M￼n￼N￼o￼O￼p￼P￼q￼Q￼r￼R￼s￼S￼t￼T￼u￼U￼v￼V￼w￼W￼x￼X￼y￼Y￼z￼Z&lt;/WordForming&gt;   &lt;Numeric /&gt;   &lt;Other&gt;U+0020￼'￼-￼!￼&quot;￼&amp;amp;￼(￼)￼,￼.￼/￼:￼;￼?￼[￼]￼{￼}&lt;/Other&gt; &lt;/ValidCharacters&gt;" />
+		<fw:windowsLCID
+			value="1036" />
+	</special>
+	<special xmlns:fw="urn://fieldworks.sil.org/ldmlExtensions/v1">
+		<fw:graphiteEnabled
+			value="False" />
+		<fw:validChars
+			value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt; &lt;ValidCharacters&gt;   &lt;WordForming&gt;a￼A￼b￼B￼c￼C￼d￼D￼e￼E￼f￼F￼g￼G￼h￼H￼i￼I￼j￼J￼k￼K￼l￼L￼m￼M￼n￼N￼o￼O￼p￼P￼q￼Q￼r￼R￼s￼S￼t￼T￼u￼U￼v￼V￼w￼W￼x￼X￼y￼Y￼z￼Z&lt;/WordForming&gt;   &lt;Numeric /&gt;   &lt;Other&gt;U+0020￼'￼-￼!￼&quot;￼&amp;amp;￼(￼)￼,￼.￼/￼:￼;￼?￼[￼]￼{￼}&lt;/Other&gt; &lt;/ValidCharacters&gt;" />
+		<fw:windowsLCID
+			value="1036" />
 	</special>
 	<special xmlns:fw="urn://fieldworks.sil.org/ldmlExtensions/v1">
 		<fw:graphiteEnabled
